@@ -13,7 +13,8 @@ after performing BOW in mailSPAM file , then i tried to solve fake news problem 
       4  fake news problem through Recurrent neural network by adding lstm (long short term memory ) layer with bidirectional layer  in model (fakenewsBIDIRECTIONAL.ipynb)
      
       
-
+# Data
+kaggle data sets
 # libraries
       import pandas as pd
       import re
